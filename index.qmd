@@ -1,6 +1,6 @@
 ---
-title: "prueba_dashboard"
+title: "Dashboard"
 ---
 
-## Dashboard
+## Welcome
 
