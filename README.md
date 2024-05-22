@@ -1,3 +1,0 @@
-## Dashboard
-
-Source code.
